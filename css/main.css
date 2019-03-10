@@ -192,48 +192,48 @@ a:hover
 }
 
 .flo {
-    background-image:   url('../img2/flo.svg');
+    background-image:   url('file:///C:/Users/%D0%98%D0%B3%D0%BE%D1%80%D1%8C/Desktop/hi-master/img2/flo.svg');
     width: 43vw;
     height: 43vw;
     background-size: cover;
     background-repeat: no-repeat;
 }
 .flo1 {
-    background-image:   url('../img2/flo1.svg');
+    background-image:   url('file:///C:/Users/%D0%98%D0%B3%D0%BE%D1%80%D1%8C/Desktop/hi-master/img2/flo1.svg');
     width: 43vw;
     height: 43vw;
     background-size: cover;
     background-repeat: no-repeat;
 }
 .flo2 {
-    background-image:   url('../img2/flo2.svg');
+    background-image:   url('file:///C:/Users/%D0%98%D0%B3%D0%BE%D1%80%D1%8C/Desktop/hi-master/img2/flo2.svg');
     width: 43vw;
     height: 43vw;
     background-size: cover;
     background-repeat: no-repeat;
 }
 .flo3 {
-    background-image:   url('../img2/flo3.svg');
+    background-image:   url('file:///C:/Users/%D0%98%D0%B3%D0%BE%D1%80%D1%8C/Desktop/hi-master/img2/flo3.svg');
     width: 43vw;
     height: 43vw;
     background-size: cover;
     background-repeat: no-repeat;
 }
 .flo:hover {
-    background-image: url("../img2/dragon.svg");
+    background-image: url("file:///C:/Users/%D0%98%D0%B3%D0%BE%D1%80%D1%8C/Desktop/hi-master/img2/dragon.svg");
 }
 .flo1:hover {
-    background-image: url("../img2/fairy.svg");
+    background-image: url("file:///C:/Users/%D0%98%D0%B3%D0%BE%D1%80%D1%8C/Desktop/hi-master/img2/fairy.svg");
 }
 .flo2:hover {
-    background-image: url("../img2/ogre.svg");
+    background-image: url("file:///C:/Users/%D0%98%D0%B3%D0%BE%D1%80%D1%8C/Desktop/hi-master/img2/ogre.svg");
 }
 .flo3:hover {
-    background-image: url("../img2/mermaid.svg");
+    background-image: url("file:///C:/Users/%D0%98%D0%B3%D0%BE%D1%80%D1%8C/Desktop/hi-master/img2/mermaid.svg");
 }
 
 .dead:active{
-    background-image: url("../img2/dragon.svg");
+    background-image: url("file:///C:/Users/%D0%98%D0%B3%D0%BE%D1%80%D1%8C/Desktop/hi-master/img2/dragon.svg");
     background-size: cover;
     background-repeat: no-repeat;
     width: 150px;
@@ -241,7 +241,7 @@ a:hover
     margin: 25px;
 }
 .dead1:active{
-    background-image: url("../img2/fairy.svg");
+    background-image: url("file:///C:/Users/%D0%98%D0%B3%D0%BE%D1%80%D1%8C/Desktop/hi-master/img2/fairy.svg");
     background-size: cover;
     background-repeat: no-repeat;
     width: 150px;
@@ -249,7 +249,7 @@ a:hover
     margin: 25px;
 }
 .dead2:active{
-    background-image: url("../img2/ogee.svg");
+    background-image: url("file:///C:/Users/%D0%98%D0%B3%D0%BE%D1%80%D1%8C/Desktop/hi-master/img2/ogee.svg");
     background-size: cover;
     background-repeat: no-repeat;
     width: 150px;
@@ -257,7 +257,7 @@ a:hover
     margin: 25px;
 }
 .dead3:active{
-    background-image: url("../img2/mermaid.svg");
+    background-image: url("file:///C:/Users/%D0%98%D0%B3%D0%BE%D1%80%D1%8C/Desktop/hi-master/img2/mermaid.svg");
     background-size: cover;
     background-repeat: no-repeat;
     width: 150px;

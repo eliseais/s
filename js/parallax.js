@@ -10,7 +10,7 @@ $(document).ready(function() {
     });
     
 	/* Next/prev and primary nav btn click handlers */
-	$('#manned-flight').click(function(){
+	$('a.manned-flight').click(function(){
     	$('html, body').animate({
     		scrollTop:0
     	}, 1000, function() {
@@ -18,7 +18,7 @@ $(document).ready(function() {
 		});
     	return false;
 	});
-    $('#frameless-parachute').click(function(){
+    $('a.frameless-parachute').click(function(){
     	$('html, body').animate({
     		scrollTop:$('#frameless-parachute').offset().top
     	}, 1000, function() {
@@ -26,7 +26,7 @@ $(document).ready(function() {
 		});
     	return false;
     });
-    $('#english-channel').click(function(){
+    $('a.english-channel').click(function(){
     	$('html, body').animate({
     		scrollTop:$('#english-channel').offset().top
     	}, 1000, function() {
@@ -34,7 +34,7 @@ $(document).ready(function() {
 		});
     	return false;
     });
-	$('#about').click(function(){
+	$('a.about').click(function(){
     	$('html, body').animate({
     		scrollTop:$('#about').offset().top
     	}, 1000, function() {
@@ -42,7 +42,7 @@ $(document).ready(function() {
 		});
     	return false;
     });
-	$('#about2').click(function(){
+	$('a.about2').click(function(){
     	$('html, body').animate({
     		scrollTop:$('#about2').offset().top
     	}, 1000, function() {
@@ -50,7 +50,7 @@ $(document).ready(function() {
 		});
     	return false;
     });
-	$('#about3').click(function(){
+	$('a.about3').click(function(){
     	$('html, body').animate({
     		scrollTop:$('#about3').offset().top
     	}, 1000, function() {
@@ -58,7 +58,7 @@ $(document).ready(function() {
 		});
     	return false;
     });
-	$('#about4').click(function(){
+	$('a.about4').click(function(){
     	$('html, body').animate({
     		scrollTop:$('#about4').offset().top
     	}, 1000, function() {
@@ -66,7 +66,7 @@ $(document).ready(function() {
 		});
     	return false;
     });
-	$('#about5').click(function(){
+	$('a.about5').click(function(){
     	$('html, body').animate({
     		scrollTop:$('#about5').offset().top
     	}, 1000, function() {
